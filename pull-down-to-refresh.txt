@@ -14,7 +14,7 @@
     var currentY = 0;
     var pulling = false;
     var threshold = 80;
-    var maxPull = 110;
+    var maxPull = 120;
     var arrow = null;
 
     function createArrow() {
