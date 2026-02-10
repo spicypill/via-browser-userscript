@@ -1,2 +1,2 @@
 # via-browser-userscript
-userscript for Via Browser to add pull down to refresh functionality.
+userscript for [Via browser](https://play.google.com/store/apps/details?id=mark.via.gp&gl=US) to add pull down to refresh functionality.
